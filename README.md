@@ -63,7 +63,8 @@
 
 
 # credit-card-fraud-detection
-Certainly! Here's a README for a credit fraud detection project:
+  ![WhatsApp Image 2024-02-28 at 21 33 44_5670b990](https://github.com/ashfaq-khan14/credit-card-fraud-detection2/assets/120010803/55459043-6a6f-4c18-8b0f-00b63d295c28)
+
 
 ---
 
